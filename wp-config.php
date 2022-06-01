@@ -23,13 +23,13 @@
 define( 'DB_NAME', 'wordpressdb' );
 
 /** Database username */
-define( 'DB_USER', 'wordpress-user' );
+define( 'DB_USER', 'admin' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'stackinc' );
+define( 'DB_PASSWORD', '$Tackinc1' );
 
 /** Database hostname */
-define( 'DB_HOST', 'wordpressinstance.cqlkua408k7o.us-east-1.rds.amazonaws.com' );
+define( 'DB_HOST', 'stackwordpressinstance.cqlkua408k7o.us-east-1.rds.amazonaws.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
